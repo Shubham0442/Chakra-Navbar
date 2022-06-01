@@ -1,0 +1,27 @@
+.navbar{
+    border: 1px solid #9b9a9b; 
+    height: 60px; 
+    width: 100%; 
+    display: flex;
+    align-items: center; 
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 10px;
+} 
+
+.logo{
+    font-weight: 750;
+}
+
+.left{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px;
+}
+
+.list{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px; 
+    width: 400px;
+}
